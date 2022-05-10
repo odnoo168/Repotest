@@ -8,3 +8,4 @@ print(days)
 unique_locations= set (days)
 for location in unique_locations:
     print (location, days.count(location))
+    #asd
